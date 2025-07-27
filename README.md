@@ -61,3 +61,5 @@ Thank You
 Deepak Mishra
 
 
+![Radar Plot](RadarPlot_as_per_GDP.jpg)
+![Annual Income vs Corruption Rate](annual_income_vs_corruption_index.jpg)
